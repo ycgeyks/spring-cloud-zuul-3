@@ -1,0 +1,5 @@
+# Project exclude paths
+/spring-zuul-gateway/target/
+/spring-zuul-member/target/
+/spring-zuul-sale/target/
+/spring-zuul-server/target/
